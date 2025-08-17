@@ -72,7 +72,6 @@ margin-top: 10px;
     margin-top: 100px;
 }
 
-
 .zagolovok{
     font-family: Cera Pro;
 font-weight: 700;
@@ -92,4 +91,79 @@ line-height: 24px;
 letter-spacing: 0%;
 text-align: center;
 color: #727272;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+.div-dix{
+    background-color: #FBFBFB;
+    width: 268px;
+    height: 167px;
+}
+
+
+.img-dix{
+    width: 268px;
+    height: 195.17px;
+}
+
+
+.h5-dix{
+font-family: Cera Pro;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0%;
+color: #46A358;
+margin-top: 0;
+padding-left: 10px;
+padding-right: 10px;
+margin-bottom: 5px;
+}
+
+
+.h1-dix{
+font-family: Cera Pro;
+font-weight: 700;
+font-size: 20px;
+line-height: 26px;
+letter-spacing: 0%;
+color:#3D3D3D ;
+margin-top: 0px;
+margin-bottom: 5px;
+padding-left: 10px;
+padding-right: 15px;
+}
+
+
+.p-dix{
+font-family: Cera Pro;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+letter-spacing: 0%;
+color:#727272 ;
+margin-top: 0;
+padding-left: 10px;
+}
+
+
+.btn-dix{
+font-family: Cera Pro;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0%;
+border: none;
+color:#3D3D3D ;
+margin-top: 0;
+background-color:#FBFBFB ;
+padding-left: 10px;
 }
