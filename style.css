@@ -67,3 +67,29 @@ margin-top: 10px;
      }
 
 }
+
+.div-zagolovok{
+    margin-top: 100px;
+}
+
+
+.zagolovok{
+    font-family: Cera Pro;
+font-weight: 700;
+font-size: 30px;
+line-height: 16px;
+letter-spacing: 0%;
+text-align: center;
+color:#3D3D3D ;
+}
+
+
+.p-zagolovok{
+    font-family: Cera Pro;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+color: #727272;
+}
